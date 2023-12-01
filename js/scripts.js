@@ -11,7 +11,7 @@ console.log(`
 // variabile-2
 
 let textSurname = prompt('Inserire il proprio Cognome:');
-console.log("cogome inserito dall'utente:", textSurname);
+console.log("cognome inserito dall'utente:", textSurname);
 
 
 console.log(`
